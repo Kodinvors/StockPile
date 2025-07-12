@@ -1,4 +1,4 @@
-# App-Code-Design
+# StockPile - Android App
 
 StockPile is an Android app designed for adding, removing, and tracking the quantities of items in an inventory. When the quantity of an item drops below a threshold, a text is sent to remind the owner to restock.
 UI was designed for the user to log in, view a list of the items, and add, remove, or adjust the onhand of the item.
